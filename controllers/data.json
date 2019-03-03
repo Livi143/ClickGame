@@ -1,0 +1,121 @@
+[
+    {
+      "id": 1,
+      "image": "assets/images/bridge1.jpg",
+      "clicked": false,
+      "alt": "bridge1"
+    },
+    {
+      "id": 2,
+      "image": "assets/images/bridge2.jpg",
+      "clicked": false,
+      "alt": "bridge2"
+    },
+    {
+      "id": 3,
+      "image": "assets/images/bridge3.jpg",
+      "clicked": false,
+      "alt": "bridge3"
+    },
+    {
+      "id": 4,
+      "image": "assets/images/bridge4.jpg",
+      "clicked": false,
+      "alt": "bridge4"
+    },
+    {
+      "id": 5,
+      "image": "assets/images/bridge5.jpg",
+      "clicked": false,
+      "alt": "bridge5"
+    },
+    {
+      "id": 6,
+      "image": "assets/images/bridge6.jpg",
+      "clicked": false,
+      "alt": "bridge6"
+    },
+    {
+      "id": 7,
+      "image": "assets/images/bridge7.jpg",
+      "clicked": false,
+      "alt": "bridge7"
+    },
+    {
+      "id": 8,
+      "image": "assets/images/bridge8.jpg",
+      "clicked": false,
+      "alt": "assets/bridge8"
+    },
+
+    {
+        "id": 8,
+        "image": "assets/images/bridge9.jpg",
+        "clicked": false,
+        "alt": "bridge9"
+      },
+
+
+      {
+        "id": 9,
+        "image": "assets/images/bridge10.jpg",
+        "clicked": false,
+        "alt": "bridge10"
+      },
+      {
+        "id": 10,
+        "image": "assets/images/bridge11.jpg",
+        "clicked": false,
+        "alt": "bridge11"
+      },
+      {
+        "id": 11,
+        "image": "assets/images/bridge12.jpg",
+        "clicked": false,
+        "alt": "bridge12"
+      },
+      {
+        "id": 12,
+        "image": "assets/images/bridge13.jpg",
+        "clicked": false,
+        "alt": "bridge13"
+      },
+      {
+        "id": 13,
+        "image": "assets/images/bridge14.jpg",
+        "clicked": false,
+        "alt": "bridge14"
+      },
+      {
+        "id": 14,
+        "image": "assets/images/bridge15.jpg",
+        "clicked": false,
+        "alt": "bridge15"
+      },
+      {
+        "id": 15,
+        "image": "assets/images/bridge16.jpg",
+        "clicked": false,
+        "alt": "bridge16"
+      },
+      {
+        "id": 16,
+        "image": "assets/images/bridge17.jpg",
+        "clicked": false,
+        "alt": "bridge17"
+      },
+  
+      {
+          "id": 17,
+          "image": "assets/images/bridge18.jpg",
+          "clicked": false,
+          "alt": "bridge18"
+        },
+        {
+          "id": 18,
+          "image": "assets/images/bridge19.jpg",
+          "clicked": false,
+          "alt": "bridge19"
+        }
+
+    ]
